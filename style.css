@@ -112,3 +112,11 @@ form input {
   box-shadow: 1px 1px 3px #989191;
   margin-bottom: 20px;
 }
+
+.valid-password {
+  border: 1px solid #0000004f;
+}
+
+.invalid-password {
+  border: 1px solid red;
+}
